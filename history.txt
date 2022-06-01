@@ -1,0 +1,13 @@
+telnet send hello
+telnet exec ls
+telnet exec ls
+telnet exec ls
+telnet send hello
+telnet send hello
+telnet exec ls
+help
+telnet send dsjfhdsfkhd
+telnet exec ls
+telnet upload test.txt
+telnet history show
+telnet send hello
